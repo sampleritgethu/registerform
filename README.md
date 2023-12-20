@@ -1,2 +1,2 @@
 # registerform
-thankyou freecodecamp . build survey form using html and css
+thankyou freecodecamp . build register form using html and css
